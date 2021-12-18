@@ -11,7 +11,7 @@
   
   
   
-  <title>小龚</title>
+  <title>hexo</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta property="og:type" content="website">
 <meta property="og:title" content="Hexo">
